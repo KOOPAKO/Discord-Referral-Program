@@ -12,8 +12,8 @@ Bot for tracking how many people users on a Discord server invite to your server
 4. run main.py
 5. Type r!help in the Specified channel to begin.
 
-# What is specifiedChannelId
+### What is specifiedChannelId
 This is the ID of the channel which you want your referral commands to be used it.  The bot will only allow commands to be used in the channel with this ID.  You can get this by enabling Discord [developer mode](https://discordia.me/en/developer-mode#:~:text=Enabling%20Developer%20Mode%20is%20easy,the%20toggle%20to%20enable%20it.), then right clicking the text channel you wish to have the commands in and click "Copy ID".
 
-# Reseting data
+### Reseting data
 If for what ever reason you wish to reset your referral program data, you either edit the json files in ./data/ or you can run resetJSON.py.  This will reset all data json files to their starting empty formats.
